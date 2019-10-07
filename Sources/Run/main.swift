@@ -1,1 +1,3 @@
-print("Hello, GitHub Actions")
+import App
+
+log("Hello, World!")
